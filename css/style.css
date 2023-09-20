@@ -24,6 +24,7 @@
 	width: 100%;
 	top: 0;
 	left: 0;
+	z-index: 20;
 }
 .textheader {
 	color: #343638;
@@ -36,4 +37,18 @@
 	margin-bottom: 9px;
 }
 /*end header*/
-/*start section 1 */
+/*start section 1*/
+.h3-1 {
+	position: absolute;
+	top: 500px;
+	text-align: left;
+
+}
+.block1 {
+	position: relative;
+	top: 75px;
+}
+.image1block {
+	position: absolute;
+
+}
