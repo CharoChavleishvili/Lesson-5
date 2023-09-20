@@ -1,5 +1,8 @@
 /*index.html*/
 /*start header*/
+body {
+	background-color: #F6F8F9;
+}
 .logo {
 	width: 100px;
 	display: inline-block;
@@ -19,7 +22,7 @@
 	margin-top: 20px;
 }
 .divheader {
-	background-color: #F6F8F9;
+	background-color: #DCDCDC;
 	position: fixed;
 	width: 100%;
 	top: 0;
@@ -38,6 +41,10 @@
 }
 /*end header*/
 /*start section 1*/
+.div1section1 {
+	width: 1160px;
+	margin:0 auto;
+}
 .h3-1 {
 	position: absolute;
 	top: 500px;
@@ -45,10 +52,32 @@
 
 }
 .block1 {
-	position: relative;
+	position: absolute;
 	top: 75px;
+/*	margin-top: 25px;
+	margin-left: 140px;
+	width: 360px;
+	background-color: white;
+	padding-bottom: 40px;*/
+
 }
 .image1block {
-	position: absolute;
+	position: relative;
+	margin-top: 40px;
+
+}
+.section1p1 {
+	color: #A6ADB4;
+	width: 280px;
+	margin: 66px 40px 10px;
+
+}
+.time {
+	color: #A6ADB4;
+	margin-left: 66px;
+
+}
+.clock {
+	position: relative;
 
 }
