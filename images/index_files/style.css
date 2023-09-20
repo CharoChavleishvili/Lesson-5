@@ -10,11 +10,7 @@
 .nav-li {
 	display: inline-block;
 	vertical-align: middle;
-	margin-right: 27px;
 }
 .nav-ul {
 	margin-top: 20px;
-}
-.divheader {
-	background-color: #F6F8F9;
 }
