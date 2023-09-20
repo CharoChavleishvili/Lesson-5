@@ -1,6 +1,6 @@
 /*index.html*/
 /*start header*/
-body {
+body{
 	background-color: #F6F8F9;
 }
 .logo {
@@ -41,43 +41,78 @@ body {
 }
 /*end header*/
 /*start section 1*/
-.div1section1 {
-	width: 1160px;
-	margin:0 auto;
-}
-.h3-1 {
-	position: absolute;
-	top: 500px;
-	text-align: left;
-
-}
-.block1 {
+.divmain {
 	position: absolute;
 	top: 75px;
-/*	margin-top: 25px;
-	margin-left: 140px;
+	left: 140px;
+	width: 1160px;
+	height: 410px;
+	
+}
+.clock {
+	width: 16px;
+	height: 16px;
+	margin-left: 40px;
+	color: #A6ADB4;
+}
+.sec1h3 {
+	margin-top: 25px;
+}
+.block1 {
+	margin-top: 40px;
+	background-color: white;
+	width: 360px;
+	position: relative;
+/*	display: inline-block;*/
+}
+.block2 {
 	width: 360px;
 	background-color: white;
-	padding-bottom: 40px;*/
-
+	height: 180px;
+/*	display: inline-block;*/
 }
-.image1block {
-	position: relative;
-	margin-top: 40px;
-
-}
-.section1p1 {
-	color: #A6ADB4;
+.par1 {
 	width: 280px;
-	margin: 66px 40px 10px;
+	padding-top: 66px;
+	padding-right: 40px;
+	padding-bottom: 11px;
+	padding-left: 40px;
+	color: #A6ADB4;
+}
 
+.block1h3 {
+	position: absolute;
+	color: white;
+	width: 280px;
+	top: 28px;
+	right: 40px;
+	bottom: 136px;
+	left: 40px;
 }
 .time {
 	color: #A6ADB4;
-	margin-left: 66px;
 
 }
-.clock {
+.divparagrap1 {
+	display: inline-block;
+	width: 360px;
+}
+
+/* start block2 2*/
+.divparagrap2 {
+	display: inline-block;
+	width: 360px;
+	background-color: white;
+}
+.block3 {
+	margin-top: 40px;
+	background-color: white;
+	width: 360px;
 	position: relative;
 
+}
+.block4 {
+	width: 360px;
+	background-color: white;
+	height: 180px;
 }
