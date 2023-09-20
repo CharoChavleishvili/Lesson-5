@@ -103,16 +103,38 @@ body{
 	display: inline-block;
 	width: 360px;
 	background-color: white;
+	position: absolute;
+	left: 400px;
+	top: 85px;
 }
 .block3 {
-	margin-top: 40px;
+	-top: 40px;
 	background-color: white;
 	width: 360px;
 	position: relative;
-
+	vertical-align: top;
 }
 .block4 {
 	width: 360px;
 	background-color: white;
 	height: 180px;
 }
+.block3h3 {
+	position: absolute;
+	color: white;
+	width: 280px;
+	top: 28px;
+	right: 40px;
+	bottom: 136px;
+	left: 40px;
+
+}
+.par2 {
+	width: 280px;
+	padding-top: 66px;
+	padding-right: 40px;
+	padding-bottom: 11px;
+	padding-left: 40px;
+	color: #A6ADB4;
+}
+
