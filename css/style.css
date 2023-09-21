@@ -239,9 +239,36 @@ body{
 }
 .divfooter6 {
 	display: inline-block;
+	margin-left: 165px;
+	vertical-align: top;
+	margin-top: 56px;
 }
 .logofooter {
 	width: 37px;
 	height: 13p;
+	margin-top: 58px;
+	margin-left: 142px;
+	margin-bottom: 126px;
+	margin-right: 89px;
+	vertical-align: top;
+	color: #CBD0D3;
 }
+.footerul1 {
+	margin-top: 56px;
+	margin-right: 96px;
+	margin-bottom: 56px;
+	color: #CBD0D3;
+}
+.divfooter3 {
+	margin-right: 45px;
+	margin-bottom: 57px;
+	color: #CBD0D3;
+}
+.divfooter5 {
+	margin-left: 104px;
+	margin-top: 62px;
+	vertical-align: top;
+	color: #CBD0D3;
+}
+
 
