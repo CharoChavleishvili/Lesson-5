@@ -21,9 +21,6 @@ body{
 .nav-ul {
 	margin-top: 20px;
 }
-.h2 {
-/*	padding-top: 543px ;*/
-}
 .divheader {
 	background-color: #DCDCDC;
 	position: fixed;
@@ -63,7 +60,7 @@ body{
 }
 .block1 {
 	margin-top: 40px;
-	background-color: white;
+/*	background-color: white;*/
 	width: 360px;
 	position: relative;
 /*	display: inline-block;*/
@@ -230,11 +227,6 @@ body{
 }
 .divfooter1 {
 	display: inline-block;
-	vertical-align: top;
-	margin-top: 56px;
-	margin-left: 142px;
-	margin-right: 89px;
-	color: #FFFFFF;
 }
 .divfooter2 {
 	display: inline-block;
