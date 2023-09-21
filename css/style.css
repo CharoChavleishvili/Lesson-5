@@ -218,11 +218,30 @@ body{
 .divfooter {
 	background-color: #A6ADB4;
 	width: 1440px;
-	position: fixed;
 	left: 0;
 	top: 1540px;
+	height: 197px;
 }
 .divfooter1 {
 	display: inline-block;
+}
+.divfooter2 {
+	display: inline-block;
+}
+.divfooter3 {
+	display: inline-block;
+}
+.divfooter4 {
+	display: inline-block;
+}
+.divfooter5 {
+	display: inline-block;
+}
+.divfooter6 {
+	display: inline-block;
+}
+.logofooter {
+	width: 37px;
+	height: 13p;
 }
 
