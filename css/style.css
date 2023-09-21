@@ -177,13 +177,52 @@ body{
 	padding-left: 40px;
 	color: #A6ADB4;
 }
-
+/*section2*/
+.sec2block1 {
+	display: inline-block;
+	margin-top: 640px;
+	margin-left: 140px;
+	width: 760px;
+	height: 900px;
+	
+}
+.sec2block2 {
+	display: inline-block;
+	margin-top: 640px;
+	margin-left: 40px;
+	width: 360px;
+	height: 900px;
+	vertical-align: top;
+	
+}
+.image4sec2{
+	width: 760px;
+	height: 430px;
+}
+.image7sec2 {
+	width: 760px;
+	height: 430px;
+	margin-top: 40px;
+}
+.secimage62 {
+	height: 210px;
+	width: 360px;
+	margin-top: 102px;
+}
+.sec2image52 {
+	height: 210px;
+	width: 360px;
+	margin-top: 102px;
+}
 /*footer */
 .divfooter {
-	background-color: A6ADB4;
+	background-color: #A6ADB4;
 	width: 1440px;
 	position: fixed;
 	left: 0;
 	top: 1540px;
+}
+.divfooter1 {
+	display: inline-block;
 }
 
