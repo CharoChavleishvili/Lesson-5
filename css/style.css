@@ -148,11 +148,14 @@ body{
 
 }
 .block5 {
-	top: 40px;
+/*	top: 40px;*/
 	background-color: white;
 	width: 360px;
 	position: relative;
-/*	vertical-align: top;*/
+	vertical-align: top;
+}
+.sunrise {
+	vertical-align: top;
 }
 .block6 {
 	width: 360px;
@@ -163,7 +166,7 @@ body{
 	position: absolute;
 	color: white;
 	width: 280px;
-	top: 28px;
+/*	top: 28px;*/
 	right: 40px;
 	bottom: 136px;
 	left: 40px;
@@ -239,23 +242,23 @@ body{
 }
 .divfooter6 {
 	display: inline-block;
-	margin-left: 165px;
+	margin-left: 100px;
 	vertical-align: top;
 	margin-top: 56px;
 }
 .logofooter {
 	width: 37px;
 	height: 13p;
-	margin-top: 58px;
+	margin-top: 56px;
 	margin-left: 142px;
 	margin-bottom: 126px;
 	margin-right: 89px;
-	vertical-align: top;
+ 	vertical-align: top;
 	color: #CBD0D3;
 }
 .footerul1 {
 	margin-top: 56px;
-	margin-right: 96px;
+	margin-right: 70px;
 	margin-bottom: 56px;
 	color: #CBD0D3;
 }
@@ -269,6 +272,12 @@ body{
 	margin-top: 62px;
 	vertical-align: top;
 	color: #CBD0D3;
+}
+.divfooter7 {
+	margin-left: 5px;
+	vertical-align: top;
+	color: #CBD0D3;
+	margin-top: 56px;
 }
 
 
