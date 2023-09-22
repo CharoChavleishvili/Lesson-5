@@ -23,6 +23,8 @@ body {
 	display: inline-block;
 	vertical-align: middle;
 	margin-right: 27px;
+	font-family: 'Inconsolata';
+
 
 }
 .personimage {
@@ -156,6 +158,10 @@ body {
 	margin-bottom: 102px;
 /*	height: 210px;*/
 }
+.headding {
+	font-size: 20px;
+	font-family: 'Inconsolata';
+}
 
 /*footer*/
 .footcontainer {
@@ -181,6 +187,9 @@ body {
 }
 .fooertlogo{
 	margin-right: 32px;
+}
+.foot-ul {
+	font-family: 'Inconsolata';
 }
 /*.footblock2 {
 	display: inline-block;
